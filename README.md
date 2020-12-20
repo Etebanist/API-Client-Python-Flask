@@ -17,4 +17,3 @@ sudo python webapp.py
 
 La direccion de la aplicacion seria nuestro http://localhost/
 
-Now you should be able to search any twitter user and retrieve their information.
