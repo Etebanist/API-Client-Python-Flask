@@ -1,23 +1,20 @@
-# WebApp-flask
-
-This is an exercise with flask in order to show how it can be implemented.
+# APIClient-Python/Flask and API Twitter
 
 
-
-This web application consumes an API also developed with flask. Here is the link to the repository:
-
-https://github.com/eso31/API-flask
+La aplicacion del servidor est en el siguiente repositorio:
 
 
-Before running this web application you should already have running the API-flask project.
 
 
-How to run:
+Para poder utilizar la aplicacion completa primero debe de tener la aplicacion del servidor arriba.
+
+
+Para correr el proyecto en terminal debe escribir:
 
 ```
 sudo python webapp.py
 ```
 
-Now try access localhost
+La direccion de la aplicacion seria nuestro http://localhost/
 
 Now you should be able to search any twitter user and retrieve their information.
